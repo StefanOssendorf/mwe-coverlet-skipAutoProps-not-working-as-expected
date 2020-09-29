@@ -1,0 +1,1 @@
+# mwe-coverlet-skipAutoProps-not-working-as-expected
