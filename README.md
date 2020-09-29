@@ -1,1 +1,2 @@
-# mwe-coverlet-skipAutoProps-not-working-as-expected
+# Skip auto properties option from coverlet settings do not work as expected
+
